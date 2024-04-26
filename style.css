@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    color: white;
+    column-gap: 50px;
+    margin-left: 500px;
+  
+}
+form{
+    margin-bottom: 10px;
+}
+label{
+    display: inline-block;
+    width: 100px;
+}
+input{
+    margin-bottom: 10px;
+}
+#validation{
+    width: 300px;
+    height: 200px;
+    margin-top: 200px;
+    border-radius: 15px;
+    background-color:grey
+   
+}
+#username{
+    margin-top: 30px;
+}
